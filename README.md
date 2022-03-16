@@ -1,3 +1,3 @@
 # Budget App
 
-## Things to do ()
+## Things to do (implementation)
