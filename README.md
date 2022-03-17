@@ -2,4 +2,5 @@
 
 ## Things to do (implementation)
 
-- [x] hello
+- [] Display the bought list
+- []
